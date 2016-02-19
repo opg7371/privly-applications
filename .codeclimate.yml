@@ -1,5 +1,5 @@
 exclude_paths:
-  vendor/**/*
+  vendor/**/* 
   ZeroBin/**/*
   test/**/*
-  */test/**/*
+  */test/**/*   
